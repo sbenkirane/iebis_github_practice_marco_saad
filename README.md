@@ -11,5 +11,5 @@ Instructions:
 
 
 ## Add your names below:
-alumn1: Saad Benkirane
+alumn1: SaadBenkirane
 alumn2: XXXXXX
